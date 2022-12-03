@@ -20,8 +20,8 @@
   },
   "prettier": {
     "singleQuote": true,
-    "bracketSpacing": false,
-    "semi": false,
+    "bracketSpacing": true,
+    "semi": true,
     "arrowParens": "avoid",
     "printWidth": 100
   },
